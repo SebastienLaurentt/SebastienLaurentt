@@ -9,4 +9,4 @@ I am Sébastien, a **Full Stack Web Developer** who transitioned into developmen
 
 ## Contact Me
 
-Fell free to contact me <a href="sebastienlaurent.fr">**here**.</a>
+Fell free to contact me [here](https://sebastienlaurent.fr/).
