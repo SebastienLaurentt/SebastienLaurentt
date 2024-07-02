@@ -5,4 +5,4 @@ I am a **Full Stack Web Developer** who transitioned into development after comp
 
 ## My Stack
 
-![](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,prisma,tanstack,shadcn,tailwindcss)
+![](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,prisma,tanstack,shadcnui,tailwindcss)
