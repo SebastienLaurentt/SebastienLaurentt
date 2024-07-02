@@ -6,3 +6,7 @@ I am Sébastien, a **Full Stack Web Developer** who transitioned into developmen
 ## My Current Stack
 
 ![](https://skillicons.dev/icons?i=js,typescript,react,nodejs,nextjs,tailwindcss,prisma,supabase)
+
+## Contact Me
+
+Fell free to contact me <a href="sebastienlaurent.fr">**here**.</a>
