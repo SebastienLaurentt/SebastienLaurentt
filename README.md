@@ -9,4 +9,4 @@ I am Sébastien, a **Full Stack Web Developer** who transitioned into developmen
 
 ## Contact Me
 
-Fell free to contact me [here](https://sebastienlaurent.fr/).
+Feel free to contact me [here](https://sebastienlaurent.fr/).
